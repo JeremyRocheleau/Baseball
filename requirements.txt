@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+pybaseball
+psycopg2
+sqlalchemy
+pyodbc
+-e .
